@@ -1,3 +1,5 @@
+![readme](https://user-images.githubusercontent.com/85355371/167439157-fe366310-ab40-461d-aadc-01aee5028dfd.jpg)
+
 <h1 align="center">Hi 👋, I'm SURA KUSALA</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" align="right" alt="Coding" width="400">
