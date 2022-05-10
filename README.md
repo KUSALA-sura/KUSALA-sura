@@ -1,4 +1,5 @@
-![readme](https://user-images.githubusercontent.com/85355371/167439157-fe366310-ab40-461d-aadc-01aee5028dfd.jpg)
+![reapt](https://user-images.githubusercontent.com/85355371/167608396-3c939b52-0580-43f1-a6e4-55487fea3e22.jpg)
+
 
 <h1 align="center">Hi 👋, I'm SURA KUSALA</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
