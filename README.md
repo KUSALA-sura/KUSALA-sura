@@ -1,4 +1,4 @@
-![reapt](https://user-images.githubusercontent.com/85355371/167608396-3c939b52-0580-43f1-a6e4-55487fea3e22.jpg)
+<img src="![reapt](https://user-images.githubusercontent.com/85355371/167608396-3c939b52-0580-43f1-a6e4-55487fea3e22.jpg)"  height="200" width="200">
 
 
 <h1 align="center">Hi 👋, I'm SURA KUSALA</h1>
